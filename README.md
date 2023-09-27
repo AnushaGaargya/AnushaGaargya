@@ -8,5 +8,10 @@
 - ![image](https://github.com/AnushaGaargya/AnushaGaargya/assets/23082266/b9d44603-5068-42a7-b4af-84cf99d4ccd5)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushaGaargya&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnushaGaargya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
